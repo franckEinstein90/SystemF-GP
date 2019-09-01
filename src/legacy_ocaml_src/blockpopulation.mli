@@ -1,3 +1,8 @@
+(* Defines the types: 
+	- Allele
+	- gene_pool
+*)
+
 open Format
 open Utils.Error
 open Utils.Pervasive
